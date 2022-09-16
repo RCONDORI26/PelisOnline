@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676072801541",
+    "project_id": "pelisonlineorg",
+    "storage_bucket": "pelisonlineorg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676072801541:android:2d3621fc71b2ff7b98e36c",
+        "android_client_info": {
+          "package_name": "com.pelisonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676072801541-gnkbqd2rjm8vbpq3263dm3boscvmbj21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeayZ5APXWeJrUnCEJUrqIoRS9VLb7oGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676072801541-gnkbqd2rjm8vbpq3263dm3boscvmbj21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
