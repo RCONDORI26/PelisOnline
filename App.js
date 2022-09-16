@@ -7,9 +7,15 @@
  */
 
 import React from 'react';
-import {Text} from 'react-native';
+import {SafeAreaView, Text} from 'react-native';
+import Login from './src/screens/Login';
 const App = () => {
-  return <Text> Hola Mundo, Aprendiendo de una Todo</Text>
+    return(
+       <SafeAreaView>
+         <Text> Funcionara?</Text>
+         <Login/>
+       </SafeAreaView>
+    );
 };
 
 export default App;
